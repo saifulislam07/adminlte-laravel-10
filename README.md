@@ -16,7 +16,7 @@ This project is made in Laravel version 10. In this project, I used an Admin LTE
 - For Install you have to clone this repo or you can fire this command as well.
 
 ```php
-git clone https://github.com/saifulislam07
+https://github.com/saifulislam07/adminlte-laravel-10
 ```
 
 - Go into folder
@@ -139,7 +139,7 @@ If you discover a security vulnerability within this project, please send an e-m
 
 # Connect with me
 
-[![Instagram URL](https://www.instagram.com/saiful0007/)
+Instagram URL](https://www.instagram.com/saiful0007/)
 
 # Other Projects
 
